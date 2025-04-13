@@ -6,4 +6,4 @@ flowchart TD
 
     B --> E[Recipes Window]
     C --> F[Add Recipe Window]
-    D --> G[Delete Logic]
+    D --> G[Perform Delete Logic]
