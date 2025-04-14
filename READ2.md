@@ -1,4 +1,4 @@
-'''mermaid
+```mermaid
 classDiagram
     class Recipe {
         - String name
@@ -14,5 +14,5 @@ classDiagram
         + setIngredients(List<String> ingredients)
         + getInstructions()
         + setInstructions(String instructions)
-        
     }
+```
